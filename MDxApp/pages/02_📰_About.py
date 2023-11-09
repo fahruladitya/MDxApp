@@ -9,7 +9,7 @@ for k, v in st.session_state.items():
 ##
 
 st.set_page_config(
-    page_title="About",
+    page_title="Cek Fahrul",
     page_icon="📰",
     layout="wide"
 )
